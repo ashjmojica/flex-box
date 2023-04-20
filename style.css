@@ -5,3 +5,7 @@ h1 {
 img {
     height: 300px;
 }
+
+.flex-container {
+    display: flex;
+}
